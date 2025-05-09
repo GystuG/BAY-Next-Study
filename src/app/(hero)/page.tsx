@@ -1,5 +1,4 @@
 import React from "react";
-import Image from "next/image";
 import Hero from "../components/hero";
 
 export const metadata = {
